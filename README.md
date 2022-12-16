@@ -38,4 +38,5 @@ Customer Segmentation for Mutual Fund : https://github.com/shaviram99/DA-Portofo
 - Calculated field
 
 Google Data Studio/ Lookers : https://datastudio.google.com/reporting/2a0a150d-c959-4941-9992-62e03462b3b7
+
 Tablue : https://public.tableau.com/app/profile/shavira.medina/viz/GFP212/Dashboard1
