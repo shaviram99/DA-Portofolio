@@ -12,8 +12,7 @@ Overall Deck : https://drive.google.com/file/d/1lDo_LVK7hKpoiI0oJj8BAYWfB5dhJkty
 - Descriptive Statistic
 - Outlier
 
-Deck:
-[Data Cleaning_ Property Listing Kuala Lumpur by Shavira Medina.pdf](https://github.com/shaviram99/DA-Portofolio/files/10244167/Data.Cleaning_.Property.Listing.Kuala.Lumpur.by.Shavira.Medina.pdf)
+Deck: https://docs.google.com/presentation/d/1uc7wpd1wATKl0_0dk6qTBJcexsEE-fBBD4x7zLz_lDA/edit?usp=sharing
 
 ## SQL
 - SQL Aggregate Functions
