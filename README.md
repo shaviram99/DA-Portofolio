@@ -1,7 +1,7 @@
 # DA-Portofolio by Shavira Medina
 Hi there! Here Shavira's Data Analytics Portfolio.
 
-Overall Deck : https://drive.google.com/file/d/1lDo_LVK7hKpoiI0oJj8BAYWfB5dhJkty/view?usp=sharing
+Overall Deck : https://www.canva.com/design/DAFU6tHsevw/v6k_fjG1EpEQMwK8ms1ZCA/view?utm_content=DAFU6tHsevw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ## Property Listing in Kuala Lumpur
 This project aims to clean and organize data using a spreadsheet by deleting specific rows, checking for errors, duplications, and blank cells, and replacing or removing string data to obtain integer data. Descriptive statistics are then used to analyze the characteristics and identify outliers in the cleaned data set.
