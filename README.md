@@ -51,6 +51,7 @@ Skillsets:
 - Descriptive statistic
 
 Mutual Fund : https://github.com/shaviram99/DA-Portofolio/blob/main/Portfolio_Shavira_M_Customer_Segmentation_for_mutual_fund.ipynb
+Prediction Model : https://github.com/shaviram99/Retail-Sales/blob/main/Forcasting.ipynb
 
 ## Data Visualization 
 Skillsets:
