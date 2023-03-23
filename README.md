@@ -51,6 +51,22 @@ Skillsets:
 - Descriptive statistic
 
 Mutual Fund : https://github.com/shaviram99/DA-Portofolio/blob/main/Portfolio_Shavira_M_Customer_Segmentation_for_mutual_fund.ipynb
+
+## Prediction Model on Retail Sales
+This project uses Python to develop a predictive model for retail sales based on the Holt-Winters method. The analysis shows that the model predicts sales to be slightly lower than September 2011, but significantly higher than what actually happened from October to December 2011. The results can provide valuable insights for retailers to adjust their strategies and improve their sales performance.
+
+Skillsets:
+- Removing irrelevant values
+- Handling missing data
+- Removing duplicates
+- Handling Outlier
+- String manipulation
+- Combine & merge datasets
+- Data aggregation
+- Descriptive statistic
+- Heatmap corelation
+- Holt-Winters Model
+
 Prediction Model : https://github.com/shaviram99/Retail-Sales/blob/main/Forcasting.ipynb
 
 ## Data Visualization 
