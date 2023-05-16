@@ -67,7 +67,7 @@ Skillsets:
 - Heatmap corelation
 - Holt-Winters Model
 
-Prediction Model : [https://github.com/shaviram99/Retail-Sales/blob/main/Forcasting.ipynb](https://github.com/shaviram99/Retail-Sales/tree/main)
+Prediction Model : https://github.com/shaviram99/Retail-Sales/tree/main
 
 ## Data Visualization 
 Skillsets:
